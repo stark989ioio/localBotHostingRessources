@@ -1,0 +1,131 @@
+[
+    {
+        "name": "ZOKOU-MD French",
+        "description": "L version francaise de zokou",
+        "git": "https://gitlab.com/zokou1/zokou-Md-French.git",
+        "runCommand": {
+            "type": "npm",
+            "arg": "start"
+        },
+        "node": 20,
+        "env": [
+            "PREFIX=.",
+            "AUTO_READ_STATUS=non",
+            "AUTO_DOWNLOAD_STATUS=non",
+            "BOT_NAME=Zokou-MD",
+            "MENU_THEME=LUFFY",
+            "PM_PERMIT=non",
+            "MODE_PUBLIC=oui",
+            "PRESENCE=1",
+            "SESSION_ID=",
+            "OWNER_NAME=Djalega++",
+            "OWNER_NUMBER=228 XX XX XX XX",
+            "WARN_COUNT=3",
+            "STARTING_BOT_MESSAGE=oui",
+            "PM_CHATBOT=non",
+            "ANTI_COMMAND_SPAM=non",
+            "ANTI_DELETE_MESSAGE=non",
+            "AUTO_REACT_MESSAGE=non",
+            "AUTO_REACT_STATUS=non",
+            "TIME_ZONE=Africa/Sao_Tome",
+            "SERVER=vps",
+            "STICKER_PACKNAME=made with ❤; Zokou-MD",
+            "DATABASE_URL=",
+            "LOG_MSG=non"
+        ]
+    },
+    {
+        "name": "ZOKOU-MD English",
+        "description": "english version of zokou",
+        "git": "https://gitlab.com/zokou1/zokou-md-english.git",
+        "runCommand": {
+            "type": "npm",
+            "arg": "start"
+        },
+        "node": 20,
+        "env": [
+            "PREFIX=.",
+            "AUTO_READ_STATUS=non",
+            "AUTO_DOWNLOAD_STATUS=non",
+            "BOT_NAME=Zokou-MD",
+            "MENU_THEME=LUFFY",
+            "PM_PERMIT=non",
+            "MODE_PUBLIC=oui",
+            "PRESENCE=1",
+            "SESSION_ID=",
+            "OWNER_NAME=Djalega++",
+            "OWNER_NUMBER=228 XX XX XX XX",
+            "WARN_COUNT=3",
+            "STARTING_BOT_MESSAGE=oui",
+            "PM_CHATBOT=non",
+            "ANTI_COMMAND_SPAM=non",
+            "ANTI_DELETE_MESSAGE=non",
+            "AUTO_REACT_MESSAGE=non",
+            "AUTO_REACT_STATUS=non",
+            "TIME_ZONE=Africa/Sao_Tome",
+            "SERVER=vps",
+            "STICKER_PACKNAME=made with ❤; Zokou-MD",
+            "DATABASE_URL=",
+            "LOG_MSG=non"
+        ]
+    },
+    {
+        "name": "Levanter",
+        "description": "Whatsapp bot by Lyfe",
+        "git": "https://github.com/lyfe00011/levanter.git",
+        "node": 20,
+        "runCommand": {
+            "type": "npm",
+            "arg": "start"
+        },
+        "env": [
+            "SESSION_ID=levanter_sessionid"
+        ]
+    },
+    {
+        "name": "OVL-MD",
+        "git": "https://github.com/Ainz-devs/OVL-MD-V2.git",
+        "node": 20,
+        "runCommand": {
+            "type": "npm",
+            "arg": "start"
+        },
+        "env": [
+            "PREFIXE=.",
+            "NOM_OWNER=Ainz",
+            "NUMERO_OWNER=226xxxxxxxx",
+            "MODE=public",
+            "SESSION_ID=",
+            "STICKER_PACK_NAME=ᴏᴠʟ-ᴍᴅ-ᴠ𝟸",
+            "STICKER_AUTHOR_NAME=ᴀɪɴᴢ🔅✨"
+        ]
+    },
+    {
+        "name": "Flash MD",
+        "git": "https://github.com/franceking1/Flash-Md-V2.git",
+        "node": 20,
+        "runCommand": {
+            "type": "npm",
+            "arg": "start"
+        },
+        "env": [
+            "SESSION=",
+            "PREFIX=",
+            "YOUR_NUMBER=",
+            "MODE=",
+            "WARNINGS=",
+            "YOUR_NAME=",
+            "ANTICALL=",
+            "ANTIDELETE=",
+            "AUTO_REACTION=",
+            "AUTO_READ_STATUS=",
+            "AUTO_LIKE=",
+            "AUTO_READ_DM=",
+            "PRESENCE_DM=",
+            "PRESENCE_GROUP=",
+            "YOUR_LID=",
+            "timezone=",
+            "ALIVE_URL="
+        ]
+    }
+]
